@@ -1,0 +1,10 @@
+Cardiology | Heart health, interventional cardiology, and cardiac surgery.
+Neurology & Neurosurgery | Care for stroke, epilepsy, and advanced brain & spine surgeries.
+Orthopaedics | Treatment for bones, joints, and sports injuries, plus physiotherapy.
+Oncology | Comprehensive cancer services: screening, chemotherapy, and radiation therapy.
+Pulmonology | Lung and respiratory care, including asthma and breathing therapy.
+Endocrinology | Hormone and gland disorders such as diabetes and thyroid disease.
+Dermatology | Skin, hair, and cosmetic treatments.
+Ophthalmology | Eye care services including cataract surgery and LASIK.
+Psychiatry & Mental Health | Support through counselling, therapy, and addiction recovery.
+ENT (Ear, Nose & Throat) | Hearing, sinus, and throat condition treatment.

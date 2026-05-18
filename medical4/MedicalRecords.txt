@@ -1,0 +1,30 @@
+P001REC001|2025-08-01|P001|Tan Xing|D001|Dr.Tan|P001BILL001|Paid|Heart Pain|M001,M005|Amoxicillin,Vitamin C|Complete
+P001REC002|2025-08-02|P001|Tan Xing|D001|Dr.Tan|P001BILL002|Unpaid|Follow-up Checkup|M005|Vitamin C|Incomplete
+
+P002REC001|2025-03-01|P002|Jason|D001|Dr.Tan|P002BILL001|Paid|Chest Pain|M001|Amoxicillin|Complete
+P002REC002|2025-07-16|P002|Jason|D001|Dr.Tan|P002BILL002|Unpaid|Heart Screening|M005|Vitamin C|Incomplete
+
+P003REC001|2025-06-05|P003|Robin|D001|Dr.Tan|P003BILL001|Paid|Cardio Checkup|M001|Amoxicillin|Complete
+P003REC002|2025-08-13|P003|Robin|D001|Dr.Tan|P003BILL002|Unpaid|Follow-up Visit|M005|Vitamin C|Incomplete
+
+P004REC001|2025-03-20|P004|Isabelle Teo|D002|Dr.Ahmad|P004BILL001|Paid|Bone Fracture|M006|Ibuprofen|Complete
+P004REC002|2025-07-02|P004|Isabelle Teo|D002|Dr.Ahmad|P004BILL002|Unpaid|Bone Pain|M003|Paracetamol|Incomplete
+
+P005REC001|2025-02-01|P005|Farhan Aziz|D002|Dr.Ahmad|P005BILL001|Paid|Joint Pain|M006|Ibuprofen|Complete
+P005REC002|2025-06-15|P005|Farhan Aziz|D002|Dr.Ahmad|P005BILL002|Unpaid|Muscle Injury|M003|Paracetamol|Incomplete
+
+P006REC001|2025-03-05|P006|Alice Tan|D002|Dr.Ahmad|P006BILL001|Paid|Knee Pain|M006|Ibuprofen|Complete
+P006REC002|2025-08-03|P006|Alice Tan|D002|Dr.Ahmad|P006BILL002|Unpaid|Bone Screening|M003|Paracetamol|Incomplete
+
+P007REC001|2025-05-01|P007|Benjamin Lim|D002|Dr.Ahmad|P007BILL001|Paid|Back Pain|M006|Ibuprofen|Complete
+P007REC002|2025-08-16|P007|Benjamin Lim|D002|Dr.Ahmad|P007BILL002|Unpaid|Orthopedic Follow-up|M003|Paracetamol|Incomplete
+
+P008REC001|2025-06-15|P008|Carmen Wong|D003|Dr.Wilson|P008BILL001|Paid|Flu Symptoms|M004|Cough Syrup|Complete
+P008REC002|2025-08-06|P008|Carmen Wong|D003|Dr.Wilson|P008BILL002|Unpaid|Allergy|M007|Antihistamine|Incomplete
+
+P009REC001|2025-07-13|P009|Daniel Lee|D003|Dr.Wilson|P009BILL001|Unpaid|Fever|M003|Paracetamol|Incomplete
+P009REC002|2025-08-20|P009|Daniel Lee|D003|Dr.Wilson|P009BILL002|Paid|Diabetes Check|M008|Insulin|Complete
+
+P010REC001|2025-06-20|P010|Emily Chan|D003|Dr.Wilson|P010BILL001|Paid|Flu|M004|Cough Syrup|Complete
+P010REC002|2025-08-09|P010|Emily Chan|D003|Dr.Wilson|P010BILL002|Unpaid|Allergy|M007|Antihistamine|Incomplete
+

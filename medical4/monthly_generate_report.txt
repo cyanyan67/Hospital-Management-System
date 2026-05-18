@@ -1,0 +1,12 @@
+2025|JAN|
+1 M001|Amoxicillin|33|22
+2 M004|Cough Syrup|322|1543
+3 M005|Vitamin C|322|66
+4 M006|Ibuprofen|300|24
+5 M007|Antihistamine|300|4434
+6 M008|Insulin|321|44
+7 M009|Tamiflu|301|224
+2025|FEB|
+1 M002|Azithromycin|3|234
+2025|JUL|
+1 M003|Paracetamol|966|987
