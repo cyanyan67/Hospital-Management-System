@@ -1,0 +1,3 @@
+D001|Dr.Tan|tan001|Female|35|tan@gmail.com|0123456789|Cardiology|Heart Surgeon  
+D002|Dr.Ahmad|ahmad002|Male|40|ahmad@gmail.com|0198765432|Orthopedics|Bone Specialist  
+D003|Dr.Wilson|wilson003|Male|32|wilson@gmail.com|0172233445|Pediatrics|Child Specialist
